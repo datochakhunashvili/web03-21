@@ -10,3 +10,7 @@ console.log(x+y);
 console.log(x-y);
 console.log(x/y);
 console.log(x*y);
+let x = 7*2;
+let y = 5*2;
+console.log(x+y);
+
