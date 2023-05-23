@@ -35,7 +35,7 @@ let numbers = [number1, number2, number3, number4, number5];
 
 console. log(number1 + number2 + number3 + number4 + number5);
 
-
+console. log( numbers [0].Number, numbers [1].Number,numbers [2].Number,numbers [3].Number,numbers [4].Number,)
 let person1 = {
     name: "dato",
     age: 35,
