@@ -73,3 +73,12 @@ if (person2.age < 19 ) {
 } else {
     console. log("I am an adult")
 }
+
+const currentDay = new Date(კვირა).getDay(0);new Date(ორშაბათი).getDay(1);new Date(2).getDay( სამშაბათი);
+
+switch (currentDay) { 
+       case console. log(კვირა):
+}
+switch (currentDay) {
+    case console. log(1):
+}              
